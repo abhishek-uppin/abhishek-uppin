@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Abhishek 
 
-<!--
-**abhishek-uppin/abhishek-uppin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Cybersecurity Student | SOC & Blue Team
 
-Here are some ideas to get you started:
+I'm currently building practical cybersecurity skills through hands-on labs and projects, with a focus on defensive security and Security Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity
+
+- Security Monitoring
+- SIEM
+- Log Analysis
+- Windows & Linux Security
+- Detection Engineering
+- Incident Response
+
+## 🛠️ Technologies
+
+- Wazuh
+- Sysmon
+- Linux
+- Windows
+- PowerShell
+- Python
+- Wireshark
+- Nmap
+- VMware
+
+## 🚀 Current Project
+
+### SOC Home Lab
+
+Building a hands-on SOC environment using Wazuh, Windows, Ubuntu and Sysmon.
+
+Currently working on:
+
+- SIEM deployment
+- Endpoint monitoring
+- Telemetry collection
+- Security dashboards
+- Log analysis
+- Security investigations
+- Detection engineering
+
+## 📚 Currently Learning
+
+- SOC Operations
+- Detection Engineering
+- Network Security
+- Cloud Security
