@@ -1,6 +1,6 @@
-# Hi, I'm Abhishek 
+<h1 align="center">Hi, I'm Abhishek Uppin</h1>
 
-### MSc Cybersecurity Student | SOC & Blue Team
+<h3 align="center">MSc Cybersecurity Student | SOC & Blue Team</h3>
 
 I'm currently building practical cybersecurity skills through hands-on labs and projects, with a focus on defensive security and Security Operations.
 
